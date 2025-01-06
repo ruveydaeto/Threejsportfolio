@@ -20,7 +20,7 @@ const App = () => {
         <Works />
         {/* <Feedbacks /> */}
         <StarsCanvas />
-        <Contact />
+        {/* <Contact /> */}
         </div>
       </div>
     </BrowserRouter>
