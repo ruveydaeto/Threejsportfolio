@@ -174,7 +174,7 @@ import {
     {
       name: "Coctail Site",
       description:
-        "This website is a comprehensive resource for cocktail enthusiasts, offering a wide variety of cocktail recipes, ingredient information, and preparation techniques.",
+        "Daily Tender is a visually stunning and user-friendly web platform designed for cocktail enthusiasts. This website offers a curated library of cocktail recipes, ingredient insights, and personalized recommendations to elevate your drink-making experience.",
       tags: [
         {
           name: "html",
@@ -192,7 +192,7 @@ import {
     {
       name: "Social Media",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A feature-rich and dynamic social media platform designed to connect people worldwide. Built with modern web technologies, Connectify provides users with an intuitive and interactive experience, focusing on seamless communication and personalized content sharing.",
       tags: [
         {
           name: "react",
@@ -215,25 +215,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Admin Panel",
+      name: "Personal Portfolio",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An innovative and visually engaging personal portfolio website built to showcase skills, projects, and creativity. This platform combines modern web technologies to deliver an immersive user experience, featuring dynamic 3D animations, responsive design, and a seamless navigation flow.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "threejs",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/ruveydaeto/Threejsportfolio",
     },
   ];
   

@@ -20,6 +20,7 @@ const App = () => {
         <Works />
         {/* <Feedbacks /> */}
         <StarsCanvas />
+        <Contact />
         </div>
       </div>
     </BrowserRouter>

@@ -27,7 +27,7 @@ import starbucks from "./company/privia.jpg";
 import tesla from "./company/privia.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.svg";
+import tripguide from "./tripguide.png";
 
 export {
   logo,
